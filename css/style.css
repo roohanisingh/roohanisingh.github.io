@@ -1,4 +1,4 @@
 body{
-	background-color:coral;
-	font-style: italic;
+	background:linear-gradient(to right,olivedrab, darkseagreen);
+	font-style: bold italic;
 }
